@@ -1,5 +1,3 @@
-# Multi-Factor-Authentication-using-Face_Recognition
-A Python-based Multi-Factor Authentication system using Face Recognition and Tkinter. Combines password and biometric verification with a simple GUI for enhanced security. Built with OpenCV, Tkinter, NumPy, and Pillow for real-time face detection, training, and secure user authentication.
 # 🧠 Multi-Factor Authentication using Face Recognition
 
 A Python-based Multi-Factor Authentication (MFA) system that combines **password verification** and **facial recognition** for enhanced login security. Built using **OpenCV**, **Tkinter**, **NumPy**, and **Pillow**, this project provides a simple GUI and real-time face detection for secure user authentication.
@@ -22,6 +20,3 @@ A Python-based Multi-Factor Authentication (MFA) system that combines **password
 - **Platform:** Windows / Linux  
 - **IDE:** VS Code / PyCharm  
 
----
-
-## 📁 Project Structure
